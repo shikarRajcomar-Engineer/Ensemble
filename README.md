@@ -1,5 +1,5 @@
-# Ensemble
-I have recently abandon my carrer as an Engineer for the last 7 years to embark on a journey towards Data Science.The 4th industrial revolution brings about an evolution on the ways the the world works but in order to full relize this revolution research,skills,and advancements in technology is needed.To play my part in this revolution I am trying to develop a method to help improve image classifiers with research focusing on the limiting factors of not having enough data to build models.
+# Ensemble Augentation
+
 
 The motivation for this problem is both broad and speciﬁc. Image classification tasks are in high demand however a major bottleneck often is having insufﬁcient data. In many industries such as the medical industry, having access to data is heavily protected due to privacy concerns. Important tasks such as classifying cancer types, Brand identification for example are hindered by this lack of data. Techniques have been developed which combine expert domain knowledge with pre-trained models. Similarly, researchers in the AI industry often lack access to signiﬁcant amounts of data. At the end of the day, it is realized that a large limiting factor for most projects is access to reliable data, and as such, this study aims to explore the effectiveness of distinct data augmentation techniques in image classiﬁcation tasks
 
